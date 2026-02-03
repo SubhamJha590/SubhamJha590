@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi 👋 I’m a Final-Year B.Tech Student (AI & Data Science)<br><br>🔭 MERN Stack Intern (Offline) at GeeksforGeeks (GFG)  <br>🤖 Building AI-integrated full-stack applications  <br>🌱 Learning MERN, ML, and backend optimization  <br>👯 Open to MERN & AI/ML project collaboration<br>
+Hi 👋 I’m a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I’m currently working as an offline MERN Stack intern at GeeksforGeeks, where I focus on building scalable full-stack web applications with basic AI integration. I enjoy applying AI and data-driven logic to solve real-world problems and continuously improving my skills in MERN stack development, machine learning, and backend systems.<br>
 
 
 ## 🌐 Socials:
