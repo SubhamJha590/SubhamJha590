@@ -1,5 +1,5 @@
-# I'm Subham Jha
-## Final-year B.Tech (AI & Data Science)**  <br>MERN Stack Intern @ GeeksforGeeks | Full-stack & AI-focused development  <br>🌱 Learning advanced MERN, ML, and backend system design<br>
+# Hii There This is Subham Jha
+## Final-year B.Tech (AI & Data Science)  <br>MERN Stack Intern @ GeeksforGeeks | Full-stack & AI-focused development  <br>🌱 Learning advanced MERN, ML, and backend system design<br>
 
 
 ## 🌐 Socials:
